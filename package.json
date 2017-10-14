@@ -1,0 +1,14 @@
+{
+  "name": "hyperapp-ssr-jsdom-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jsdom": "^11.3.0",
+    "webpack": "^3.7.1"
+  },
+  "scripts": {
+    "start": "webpack && node index.js"
+  }
+}
