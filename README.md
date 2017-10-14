@@ -4,7 +4,7 @@
 
 This runs on a [patched version of HyperApp](https://github.com/hyperapp/hyperapp/compare/master...maxholman:ownerdocument) that determines the `document` from the container/root that is passed into the app.
 
-There is no PR yet as I would like to ensure this PR fits in with routing and use of `window` and `location` with jsdom too.
+There is no PR yet as I would like to ensure this fits in with routing and use of `window` and `location` with jsdom too.
 
 ### Install
 
