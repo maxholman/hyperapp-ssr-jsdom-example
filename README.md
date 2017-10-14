@@ -34,7 +34,6 @@ $ npm start
 
 Visit http://localhost:3000
 
-The page will load with the counter set to 100, and will wait 2000ms until making the page interactive (app initializes on the
-client size)
+The page will load with the counter set to 100, and will intentionally wait 2000ms before making the page interactive (ie until app initializes on the client side) so you can see the difference.
 
 View the source to see the HTML rendered server side.
